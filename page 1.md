@@ -6,6 +6,6 @@ a bunch of stuff and a pretty picture
 
    </details>
    
-[Home](/homepage.md)
+[Home](/Homepage.md)
 
-[readme.md](/README.md)
+
